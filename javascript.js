@@ -1,4 +1,3 @@
-
 function getComputerChoice() {
   const randomNumber = Math.random();
 
